@@ -22,13 +22,14 @@ HW1_DL/
 
 ### 1. Open the Project
 
-Unzip folder and navigate to project directory:
+Clone/Download and navigate to project directory:
 ```powershell
 cd "...\HW1_DL"
 ```
 
 ### 2. Create Virtual Environment
 
+Open PowerShell and run the following commands
 ```powershell
 # Create virtual environment
 python -m venv venv
